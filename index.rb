@@ -51,6 +51,3 @@ table.Check_length()
 
 puts "The area of the table is #{table_area} (units)^2"
 puts "The volume of the table is #{table_volume} (units)^3"
-
-
-#Create a derived class table which can also check that the table is lower then 1 meter.
